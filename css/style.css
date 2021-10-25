@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
 
 body {
-  background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
+  background: linear-gradient(236.85deg, #375b86 27.26%, #9758cb 96.03%);
   font-family: 'Roboto', sans-serif;
 }
 
 .container {
   margin: 64px;
-  background: #ecf4ff;
+  background: #e1e1e6;
   color: #1c1c1c;
   border-radius: 20px;
   padding: 64px;
@@ -47,7 +47,7 @@ body {
   align-self: flex-end;
   font-size: 16px;
   padding: 8px 16px;
-  background: #ecf4ff;
+  background: #e1e1e6;
   box-sizing: border-box;
   border-radius: 100px;
   border: 2px solid #0e1d2f;
@@ -67,7 +67,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 8px 32px;
-  background: linear-gradient(230.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
+  background: linear-gradient(230.65deg, #f3f3f5 10.49%, #e1e1e6 83.19%);
   border-radius: 20px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
 }
@@ -80,7 +80,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 8px 32px;
-  background: linear-gradient(230.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
+  background: linear-gradient(230.65deg, #f3f3f5 10.49%, #e1e1e6 83.19%);
   border-radius: 20px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
 }
@@ -114,7 +114,7 @@ body {
 }
 
 .dark {
-  background: linear-gradient(236.85deg, #375b86 27.26%, #6b87a9 96.03%);
+  background: linear-gradient(236.85deg, #041832 27.26%, #9758cb 96.03%);
 }
 
 .dark .container {
